@@ -1,13 +1,13 @@
 # CodenationDesafio
 
-#Desafio do Codenation - ENEM 2016
+## Desafio do Codenation - ENEM 2016
 
-#Descubra as melhores notas de matemática do ENEM 2016
+## Descubra as melhores notas de matemática do ENEM 2016
 
 Você deverá criar um modelo para prever a nota da prova de matemática de quem participou do ENEM 2016.
 Tópicos
 
-#Detalhes
+# Detalhes
 
 O contexto do desafio gira em torno dos resultados do ENEM 2016 (disponíveis no arquivo train.csv). Este arquivo, e apenas ele, deve ser utilizado para todos os desafios. Qualquer dúvida a respeito das colunas, consulte o Dicionário dos Microdados do Enem 2016.
 
